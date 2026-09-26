@@ -1,0 +1,8 @@
+C
+Python
+SQL
+HTML
+CSS
+JavaScript
+Git
+GitHub
